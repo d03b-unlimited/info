@@ -1,6 +1,6 @@
 # Materials
 
-## YouTube resources
+## YouTube Resources
 
 YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
 
