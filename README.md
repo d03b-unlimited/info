@@ -12,7 +12,8 @@ YouTuber, die guten, einfach erklärten Content zu WebDevelopment Topics machen:
 - Kevin Powell (CSS)
 - Fireship (alles)
 - Ania Kubow (Games mit JS)
-
+- OnlineTutorials (sehr sehr coole CSS Effekte: https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+  
 Coding Resources für die nächsten 10 Jahre:
 https://github.com/losrobbos/coding-advanced-resources/blob/main/README.md
 
